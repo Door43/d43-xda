@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xda:home|Door43 (xda)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xda|d43-xda repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xda/archive/master.zip|d43-xda.zip]]
+
+**Recent Changes**
+{{changes>ns = xda}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xda|Ethnologue data]]
+
